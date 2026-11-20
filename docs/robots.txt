@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hotelperrossma.mx/sitemap.xml
